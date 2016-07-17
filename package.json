@@ -14,8 +14,7 @@
     "express",
     "mongodb"
   ],
-  "author": "David Newman <blackshuriken@hotmail.com>",
-  "homepage": "https://github.com/datatypevoid/vulgar",
+  "author": "Xavier Martinez <ceo@spirovanni.com>",
   "license": "MIT",
   "scripts": {
     "rimraf": "rimraf",
@@ -175,10 +174,6 @@
     "webpack-dev-server": "^1.14.1",
     "webpack-md5-hash": "^0.0.5",
     "webpack-merge": "^0.13.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/datatypevoid/vulgar.git"
   },
   "bugs": {
     "url": "https://github.com/datatypevoid/vulgar/issues"
